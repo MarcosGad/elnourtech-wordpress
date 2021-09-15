@@ -1,0 +1,85 @@
+# Copyright (C) 2017 Smart Reporter For E-commerce
+# This file is distributed under the same license as the Smart Reporter For E-commerce package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Reporter For E-commerce 2.10.0\n"
+"Report-Msgid-Bugs-To: https://www.storeapps.org/support/contact-us/\n"
+"POT-Creation-Date: 2019-07-11 07:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: StoreApps <support@storeapps.org> \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: smart-reporter.php:120
+msgid "<span class=\"sr_pricing_icon\"> 🔥 </span> Go Pro"
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:76
+msgid "SMART REPORTER PRO IS NOW MERGED INTO PUTLER"
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:77
+msgid "Get Advanced WooCommerce Analytics & Reporting"
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:78
+msgid ""
+"Accurate metrics, real time reports and actionable insights that grow your "
+"WooCommerce store."
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:80
+msgid "Explore Putler"
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:89
+msgid "People call it priceless, yet affordable"
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:93
+msgid ""
+"Putler <u>does the work of an employee</u> – taking care of reporting, "
+"analysis and spotting growth ideas."
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:95
+msgid ""
+"And we believe dollar to dollar – <strong>Putler is the best investment for "
+"the future of your businesses</strong>."
+msgstr ""
+
+#: pricing/class-smart-reporter-pricing.php:99
+msgid ""
+"<strong>Common features in every plan</strong>: 153+ metrics and reports, "
+"automatic consolidation & deduping, growth advice from experts, website & "
+"visitor analytics, team access, real time transaction data, sales, products "
+"and customer analytics, in-depth customer profiles, weekly email digests, "
+"goal tracking & forecasting and much more!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Smart Reporter For E-commerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>Pro Version Installed.</strong> Store analysis like never before."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.storeapps.org/product/smart-reporter/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "StoreApps"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.storeapps.org/"
+msgstr ""
